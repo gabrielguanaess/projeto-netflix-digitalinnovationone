@@ -17,13 +17,15 @@ body {
     color: white;
 }
 
+
+/* HEARDER */
+
 .imagebg {
-    background-image: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('./img/theoffice-capa.jpg');
+    background-image: linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.50)100%), url('../img/theoffice-capa.jpg');
     height: 600px;
     background-size: cover;
 }
 
-/* HEARDER */
 
 header .container {
     display: flex;
